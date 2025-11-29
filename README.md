@@ -107,8 +107,7 @@ ESP32-powered automation system developed using Arduino IDE with GSM communicati
 📌 Django REST APIs  
 📌 JWT Authentication  
 📌 Advanced Git workflows  
-📌 PostgreSQL optimization  
-📌 Frontend UX design
+
 
 ---
 
